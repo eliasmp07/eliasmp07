@@ -5,7 +5,7 @@ Estudiante de Ingenieria en Tecnologia de la informacion y comunicaciones en el 
 
 ## Contactame en:
 
-[Linked](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ## Algunas de las tecnologias que uso: 
 
