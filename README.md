@@ -1,5 +1,11 @@
-# 👋 ¡Hola! Soy Elias
+# 👋 ¡Hola! Soy Elias Mena
 ![IMAGE](https://media.licdn.com/dms/image/D4E16AQFjv1zyISeSZQ/profile-displaybackgroundimage-shrink_350_1400/0/1702850953303?e=1708560000&v=beta&t=L3EiXtlyrsnhzARZJrLbn-eO9PdSxwGWqwsMD9-9-Ow)
+
+Estudiante de Ingenieria en Tecnologia de la informacion y comunicaciones en el Instituto Tecnologico Campus Conkal 🧑‍🏫
+
+##Contactamen en:
+
+![](https://www.linkedin.com/in/eliasmenapech/)
 
 ## Algunas de las tecnologias que uso: 
 
