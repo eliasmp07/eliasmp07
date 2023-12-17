@@ -5,7 +5,7 @@ Estudiante de Ingenieria en Tecnologia de la informacion y comunicaciones en el 
 
 ## Contactame en:
 
-[LinkedIn](https://www.linkedin.com/in/eliasmenapech)
+[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/eliasmenapech)
 
 ## Algunas de las tecnologias que uso: 
 
