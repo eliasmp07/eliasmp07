@@ -5,7 +5,7 @@ Estudiante de Ingenieria en Tecnologia de la informacion y comunicaciones en el 
 
 ## Contactame en:
 
-[![Linkedin: eliasmenapech](https://img.shields.io/badge/-jorgetrad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eliasmenapech/)](https://www.linkedin.com/in/eliasmenapech/) [![GitHub Thaiane](https://img.shields.io/github/followers/jorgetrad99?label=follow&style=social)](https://github.com/jorgetrad99)
+[![Linkedin: eliasmenapech](https://img.shields.io/badge/-eliasmenapech-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eliasmenapech/)](https://www.linkedin.com/in/eliasmenapech/) [![GitHub Thaiane](https://img.shields.io/github/followers/jorgetrad99?label=follow&style=social)](https://github.com/jorgetrad99)
 
 
 ## Algunas de las tecnologias que uso: 
