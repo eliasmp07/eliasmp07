@@ -3,9 +3,9 @@
 
 Estudiante de Ingenieria en Tecnologia de la informacion y comunicaciones en el Instituto Tecnologico Campus Conkal 🧑‍🏫
 
-##Contactamen en:
+# #Contactame en:
 
-![](https://www.linkedin.com/in/eliasmenapech/)
+![](https://www.linkedin.com/in/eliasmenapech)
 
 ## Algunas de las tecnologias que uso: 
 
