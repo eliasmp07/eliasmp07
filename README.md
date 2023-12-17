@@ -3,6 +3,8 @@
 
 Estudiante de Ingenieria en Tecnologia de la informacion y comunicaciones en el Instituto Tecnologico Campus Conkal 🧑‍🏫
 
+Soy Desarrollador Android con el lenguaje de programacion Kotlin al que le encanta crear soluciones inovadoras para brindar a los usuarios una gran experencia. Amante del estudio y el aprender nuevas tecnologias y llevalas a la practicam, mi enfoque proactivo y mi capacidad para aprender por mi cuenta me han permitido enfrentar desafíos con creatividad y resolver problemas con eficacia en este ámbito. 
+
 ## Contactame en:
 
 [![Linkedin: eliasmenapech](https://img.shields.io/badge/-eliasmenapech-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eliasmenapech/)](https://www.linkedin.com/in/eliasmenapech/) [![GitHub Thaiane](https://img.shields.io/github/followers/eliasmp07?label=follow&style=social)](https://github.com/eliasmp07)
