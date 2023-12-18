@@ -3,7 +3,7 @@
 
 Estudiante de Ingenieria en Tecnologia de la informacion y comunicaciones en el Instituto Tecnologico Campus Conkal 🧑‍🏫
 
-Soy Desarrollador Android con el lenguaje de programacion Kotlin al que le encanta crear soluciones inovadoras para brindar a los usuarios una gran experencia. Amante del estudio y el aprender nuevas tecnologias y llevalas a la practicam, mi enfoque proactivo y mi capacidad para aprender por mi cuenta me han permitido enfrentar desafíos con creatividad y resolver problemas con eficacia en este ámbito. 
+Soy Desarrollador Android con el lenguaje de programacion Kotlin al que le encanta crear soluciones inovadoras para brindar a los usuarios una gran experencia. Amante del estudio y el aprender nuevas tecnologias y llevalas a la practicam, mi enfoque proactivo y mi capacidad para aprender por mi cuenta me han permitido enfrentar desafíos con creatividad y resolver problemas con eficacia en este ámbito. 🧑‍🏫📖
 
 ## Contactame en:
 
@@ -11,7 +11,7 @@ Soy Desarrollador Android con el lenguaje de programacion Kotlin al que le encan
 
 
 RanchTracker
-## Mis Proyectos: 
+## Mis Proyectos 💻: 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=eliasmp07&repo=rickandmorty-api-clean_architecture-mvvm-retrofit-hilt-room&show_owner=true&theme=tokyonight)](https://github.com/eliasmp07/rickandmorty-api-clean_architecture-mvvm-retrofit-hilt-room) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=eliasmp07&repo=ranchtracker&show_owner=true&theme=tokyonight)](https://github.com/eliasmp07/ranchtracker)
 
