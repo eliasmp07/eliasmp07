@@ -1,5 +1,4 @@
 # 👋 ¡Hola! Soy Elias Mena
-![IMAGE](https://media.licdn.com/dms/image/D4E16AQFjv1zyISeSZQ/profile-displaybackgroundimage-shrink_350_1400/0/1702850953303?e=1708560000&v=beta&t=L3EiXtlyrsnhzARZJrLbn-eO9PdSxwGWqwsMD9-9-Ow)
 
 Estudiante de Ingenieria en Tecnologia de la informacion y comunicaciones en el Instituto Tecnologico Campus Conkal 🧑‍🏫
 
@@ -13,7 +12,7 @@ Soy Desarrollador Android con el lenguaje de programacion Kotlin al que le encan
 RanchTracker
 ## Mis Proyectos 💻: 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=eliasmp07&repo=rickandmorty-api-clean_architecture-mvvm-retrofit-hilt-room&show_owner=true&theme=tokyonight)](https://github.com/eliasmp07/rickandmorty-api-clean_architecture-mvvm-retrofit-hilt-room) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=eliasmp07&repo=ranchtracker&show_owner=true&theme=tokyonight)](https://github.com/eliasmp07/ranchtracker)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=eliasmp07&repo=rickandmorty-api-clean_architecture-mvvm-retrofit-hilt-room&show_owner=true&theme=tokyonight)](https://github.com/eliasmp07/rickandmorty-api-clean_architecture-mvvm-retrofit-hilt-room) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=eliasmp07&repo=habitsapp&show_owner=true&theme=tokyonight)](https://github.com/eliasmp07/HabitsApp)
 
 
 
