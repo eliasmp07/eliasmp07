@@ -12,7 +12,7 @@ Soy Desarrollador Android con el lenguaje de programacion Kotlin al que le encan
 RanchTracker
 ## Mis Proyectos 💻: 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=eliasmp07&repo=rickandmorty-api-clean_architecture-mvvm-retrofit-hilt-room&show_owner=true&theme=tokyonight)](https://github.com/eliasmp07/rickandmorty-api-clean_architecture-mvvm-retrofit-hilt-room) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=eliasmp07&repo=habitsapp&show_owner=true&theme=tokyonight)](https://github.com/eliasmp07/HabitsApp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=eliasmp07&repo=frogmistores&show_owner=true&theme=tokyonight)](https://github.com/eliasmp07/HabitsApp)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=eliasmp07&repo=rickandmorty-api-clean_architecture-mvvm-retrofit-hilt-room&show_owner=true&theme=tokyonight)](https://github.com/eliasmp07/rickandmorty-api-clean_architecture-mvvm-retrofit-hilt-room) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=eliasmp07&repo=habitsapp&show_owner=true&theme=tokyonight)](https://github.com/eliasmp07/HabitsApp)
 
 
 
