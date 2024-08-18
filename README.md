@@ -1,12 +1,5 @@
-# 👋 ¡Hola! Soy Elias Mena
-
-Estudiante de Ingenieria en Tecnologia de la informacion y comunicaciones en el Instituto Tecnologico Campus Conkal 🧑‍🏫
-
-Soy Desarrollador Android con el lenguaje de programacion Kotlin al que le encanta crear soluciones inovadoras para brindar a los usuarios una gran experencia. Amante del estudio y el aprender nuevas tecnologias y llevalas a la practicam, mi enfoque proactivo y mi capacidad para aprender por mi cuenta me han permitido enfrentar desafíos con creatividad y resolver problemas con eficacia en este ámbito. 🧑‍🏫📖
-
-## Contactame en:
-
-[![Linkedin: eliasmenapech](https://img.shields.io/badge/-eliasmenapech-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eliasmenapech/)](https://www.linkedin.com/in/eliasmenapech/) [![GitHub Thaiane](https://img.shields.io/github/followers/eliasmp07?label=follow&style=social)](https://github.com/eliasmp07)
+# 💫 About Me:
+Soy un Desarrollador Android apasionado, actualmente estudiando Ingeniería en Tecnología de la Información y Comunicaciones en el Instituto Tecnológico Campus Conkal. Mi principal enfoque es el desarrollo con Kotlin, y me motiva crear soluciones innovadoras que brinden experiencias excepcionales a los usuarios.<br><br>Soy un entusiasta del aprendizaje continuo, siempre buscando nuevas tecnologías para poner en práctica. Mi enfoque proactivo y autodidacta me permite enfrentar desafíos con creatividad y resolver problemas de manera efectiva.
 
 
 RanchTracker
@@ -15,12 +8,17 @@ RanchTracker
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=eliasmp07&repo=frogmistores&show_owner=true&theme=tokyonight)](https://github.com/eliasmp07/HabitsApp)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=eliasmp07&repo=rickandmorty-api-clean_architecture-mvvm-retrofit-hilt-room&show_owner=true&theme=tokyonight)](https://github.com/eliasmp07/rickandmorty-api-clean_architecture-mvvm-retrofit-hilt-room) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=eliasmp07&repo=habitsapp&show_owner=true&theme=tokyonight)](https://github.com/eliasmp07/HabitsApp)
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/eliasmenapech/) 
 
-## Algunas de las tecnologias que uso: 
+# 💻 Tech Stack:
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=EliasMP07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=EliasMP07&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EliasMP07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Material](https://img.shields.io/badge/material%20design-757575?style=for-the-badge&logo=material%20design&logoColor=white)
-![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![](https://camo.githubusercontent.com/3446a61bd02a40590432b8fab053a4a818b288e5e7cc043d504478c1e32629f2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b6f746c696e2d4231323545413f7374796c653d666f722d7468652d6261646765266c6f676f3d6b6f746c696e266c6f676f436f6c6f723d7768697465)
-![](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+---
+[![](https://visitcount.itsvg.in/api?id=EliasMP07&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
