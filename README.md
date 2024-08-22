@@ -10,7 +10,7 @@ Soy un Desarrollador Android apasionado, actualmente estudiando Ingeniería en T
 
 ## Mis Proyectos 💻: 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=eliasmp07&repo=frogmistores&show_owner=true&theme=tokyonight)](https://github.com/eliasmp07/HabitsApp)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=eliasmp07&repo=rickandmorty-api-clean_architecture-mvvm-retrofit-hilt-room&show_owner=true&theme=tokyonight)](https://github.com/eliasmp07/rickandmorty-api-clean_architecture-mvvm-retrofit-hilt-room) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=eliasmp07&repo=habitsapp&show_owner=true&theme=tokyonight)](https://github.com/eliasmp07/HabitsApp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=eliasmp07&repo=frogmistores&show_owner=true&theme=tokyonight)](https://github.com/eliasmp07/HabitsApp)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=eliasmp07&repo=rickandmorty-store_app&show_owner=true&theme=tokyonight)](https://github.com/eliasmp07/rickandmorty-api-clean_architecture-mvvm-retrofit-hilt-room) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=eliasmp07&repo=habitsapp&show_owner=true&theme=tokyonight)](https://github.com/eliasmp07/HabitsApp)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=eliasmp07&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
