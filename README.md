@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy un Desarrollador Android apasionado, actualmente estudiando Ingeniería en Tecnología de la Información y Comunicaciones en el Instituto Tecnológico Campus Conkal. Mi principal enfoque es el desarrollo con Kotlin, y me motiva crear soluciones innovadoras que brinden experiencias excepcionales a los usuarios.<br><br>Soy un entusiasta del aprendizaje continuo, siempre buscando nuevas tecnologías para poner en práctica. Mi enfoque proactivo y autodidacta me permite enfrentar desafíos con creatividad y resolver problemas de manera efectiva.
+Ingeniero de Tics especializado en desarrollo Android y multiplataforma con experiencia en la creación de aplicaciones móviles y sistemas de gestión empresarial. Apasionado por aprender constantemente, optimizar procesos y ofrecer experiencias de usuario excepcionales. Hábil en la resolución de problemas y en compartir conocimientos con equipos de trabajo
 
 
 ## 🌐 Socials:
