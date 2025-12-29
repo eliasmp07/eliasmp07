@@ -1,5 +1,7 @@
 # 💫 About Me:
-Ingeniero de Tics especializado en desarrollo Android y multiplataforma con experiencia en la creación de aplicaciones móviles y sistemas de gestión empresarial. Apasionado por aprender constantemente, optimizar procesos y ofrecer experiencias de usuario excepcionales. Hábil en la resolución de problemas y en compartir conocimientos con equipos de trabajo
+Ingeniero de software con alta capacidad de autogestión y resolución de problemas. En mi experiencia actual, he liderado la transición digital de la empresa, asumiendo la responsabilidad total del ciclo de vida del desarrollo: desde la propuesta estratégica para eliminar procesos manuales (papel) hasta la arquitectura, desarrollo multiplataforma (KMP) y despliegue en la nube (AWS).
+
+Soy un apasionado de las buenas prácticas (Clean Architecture, MVVM) y la formación autodidacta constante. Busco integrarme a un equipo técnico robusto donde pueda aportar mi experiencia en soluciones de negocio y continuar creciendo bajo estándares de ingeniería de alto nivel.
 
 
 ## 🌐 Socials:
