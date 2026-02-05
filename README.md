@@ -1,7 +1,7 @@
 # 💫 Elias Mena | Android Developer | KMP
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Elias%20Mena&fontSize=80&animation=fadeIn&fontAlignY=45&desc=Android%20%7C%20KMP%20%7C%20Cloud%20Expert&descAlignY=65&descSize=25" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Elias%20Mena&fontSize=80&animation=fadeIn&fontAlignY=45&desc=Android%20%7C%20KMP%20%&descAlignY=65&descSize=25" />
 </p>
 
 <p align="center">
