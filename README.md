@@ -13,11 +13,7 @@
 ---
 
 ### 📖 Professional Manifest
-Soy un **Ingeniero de Software** apasionado por la arquitectura limpia y la eficiencia multiplataforma. Mi enfoque no es solo escribir código, sino diseñar **ecosistemas tecnológicos** que resuelvan problemas reales de negocio. 
-
-* 🛠️ **Arquitectura:** Especialista en **Clean Architecture, MVVM y MVI**.
-* 🚀 **Multiplataforma:** Pionero en la adopción de **Kotlin Multiplatform (KMP)** para compartir lógica en Android, iOS, Desktop y Web.
-* ☁️ **Cloud:** Capacidad probada para desplegar y gestionar infraestructuras en **AWS** que soportan aplicaciones móviles de alto tráfico.
+Ingeniero en TICS especializado en el desarrollo de soluciones móviles de alto impacto. Experto en liderar el ciclo de vida completo de software, desde el levantamiento de requerimientos y diseño de arquitectura hasta el despliegue en la nube (AWS). Especialista en Kotlin Multiplatform (KMP) y Jetpack Compose, con un historial probado transformando procesos analógicos en sistemas digitales escalables (ERP/CRM).
 
 ---
 
