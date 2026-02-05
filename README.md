@@ -1,7 +1,9 @@
 # 💫 Elias Mena | Android Developer | KMP
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Elias%20Mena&fontSize=80&animation=fadeIn&fontAlignY=45&desc=Android%20%7C%20KMP%20%&descAlignY=65&descSize=25" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Elias%20Mena&fontSize=90&animation=fadeIn&fontAlignY=38" />
+  <br>
+  <img src="https://img.shields.io/badge/Kotlin_Multiplatform-blueviolet?style=for-the-badge&logo=kotlin&logoColor=white" />
 </p>
 
 <p align="center">
@@ -12,33 +14,34 @@
 
 ---
 
-### 📖 Professional Manifest
+### 📖 Manifest: Mi Enfoque en el Desarrollo
 Ingeniero en TICS especializado en el desarrollo de soluciones móviles de alto impacto. Experto en liderar el ciclo de vida completo de software, desde el levantamiento de requerimientos y diseño de arquitectura hasta el despliegue en la nube (AWS). Especialista en Kotlin Multiplatform (KMP) y Jetpack Compose, con un historial probado transformando procesos analógicos en sistemas digitales escalables (ERP/CRM).
 
 ---
 
-### 🛠️ Expertise & Tech Stack
+### 🛠️ Professional Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" />
   <img src="https://img.shields.io/badge/KMP-000000?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <br>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
-#### ⚡ Core Proficiency
-- **Desarrollo Multiplataforma:** KMP, Compose Multiplatform, Ktor.
-- **Android Deep Dive:** Coroutines, Flow, Dagger Hilt, Koin, Room, Retrofit.
-- **Backend & Ops:** AWS (EC2, RDS, S3, Lambda), Express, Node.js, Gestión de Dominios.
+| Category | Skills & Frameworks |
+| :--- | :--- |
+| **Multiplatform** | KMP, Compose Multiplatform (Desktop/iOS/Web), Ktor |
+| **Android Deep Dive** | MVVM, MVI, Clean Architecture, Hilt/Koin, Coroutines, Flow, Room |
+| **Backend & Infrastructure** | Node.js, Express, EC2, RDS, Lambda, S3, Docker, Kubernetes |
+| **Data & Persistence** | PostgreSQL, MySQL, SQLite, Supabase, Firebase |
 
 ---
 
-### 🚀 Featured Open Source Projects
+### 🚀 Proyectos Destacados (Pinned Repositories)
 
 <table border="0">
   <tr>
@@ -47,43 +50,43 @@ Ingeniero en TICS especializado en el desarrollo de soluciones móviles de alto 
       <a href="https://github.com/eliasmp07/frogmistores">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=eliasmp07&repo=frogmistores&theme=tokyonight&show_owner=true" width="100%"/>
       </a>
+      <p><i>Gestión integral de cafeterías usando KMP y arquitectura modular compartida.</i></p>
     </td>
     <td width="50%">
       <p align="center"><strong>StoreApp (E-Commerce)</strong></p>
       <a href="https://github.com/eliasmp07/storeapp">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=eliasmp07&repo=storeapp&theme=tokyonight&show_owner=true" width="100%"/>
       </a>
+      <p><i>Aplicación de tienda en línea con integración de pagos y backend en AWS.</i></p>
     </td>
   </tr>
 </table>
 
 ---
+# 📊 GitHub Stats:
 
-### 📊 Actividad y Métricas (Activity Overview)
+![](https://github-readme-stats.vercel.app/api?username=eliasmp07&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eliasmp07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasmp07&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true" width="48%" />
-</p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=eliasmp07&theme=github_dark&hide_border=false)<br/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eliasmp07&theme=tokyonight" width="97%" />
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=eliasmp07&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=eliasmp07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=eliasmp07&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
+
 
 ---
 
-### 🏆 Reconocimientos & Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eliasmp07&theme=tokyonight&no-frame=true&column=4" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <br>
-  <img src="https://visitcount.itsvg.in/api?id=eliasmp07&icon=5&color=0" />
-</p>
+[![](https://visitcount.itsvg.in/api?id=eliasmp07&icon=0&color=0)](https://visitcount.itsvg.in)
